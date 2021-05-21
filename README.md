@@ -1,2 +1,2 @@
-# E.R.2.RCG
+# ER2.RCG
 Responsive CSS Grid
