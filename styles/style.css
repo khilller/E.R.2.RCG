@@ -64,7 +64,7 @@ footer {
     padding-top: var(--main-padding);
 }
 
-@media only screen and (max-width: 1300px){
+@media only screen and (max-width: 300pt){
     .container{
         grid-template-columns: 1fr;
         grid-template-rows: 0.4fr 0.4fr 2.2fr 1.2fr 1.2fr 1.2fr 1fr;
